@@ -1,0 +1,4 @@
+*.tgz
+*.js
+*.d.ts
+.vscode

@@ -1,0 +1,12 @@
+{
+    "name": "@dellamina/ts-presenter",
+    "version": "0.2.1",
+    "description": "Simple view presenters written in typescript using decorators.",
+    "main": "./lib/index.js",
+    "types": "./lib/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mattia Della Mina",
+    "license": "ISC"
+}
