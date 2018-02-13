@@ -1,4 +1,6 @@
 {
+    "author": "Mattia Della Mina",
+    "license": "MIT",
     "name": "@dellamina/ts-presenter",
     "version": "0.2.1",
     "description": "Simple view presenters written in typescript using decorators.",
@@ -7,6 +9,12 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Mattia Della Mina",
-    "license": "ISC"
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dellamina/ts-presenter"
+    },
+    "homepage": "https://github.com/dellamina/ts-presenter#readme",
+    "bugs": {
+        "url": "https://github.com/dellamina/ts-presenter/issues"
+    }
 }
